@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "jp.keijiro.klak.lineargradient": {
+      "version": "file:jp.keijiro.klak.lineargradient",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    }
+  }
+}
