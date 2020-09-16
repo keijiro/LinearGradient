@@ -33,6 +33,11 @@ public static class LinearGradientExtensions
                                           akeys[i1].alpha, akeys[i1].time);
         }
 
+        // Special case:
+        // Offset the first key by 10 when the gradient mode is set to Fixed.
+        if (gradient.mode == GradientMode.Fixed)
+            _tempArray[0] += new Vector4(0, 0, 0, 10);
+
         return _tempArray;
     }
 

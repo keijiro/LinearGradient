@@ -154,26 +154,26 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _gradient:
     serializedVersion: 2
-    key0: {r: 0, g: 0, b: 0, a: 1}
-    key1: {r: 1, g: 0, b: 0, a: 0}
-    key2: {r: 0.123764515, g: 0, b: 1, a: 1}
-    key3: {r: 0.09785986, g: 1, b: 0, a: 0}
-    key4: {r: 1, g: 0, b: 0.9438939, a: 0}
-    key5: {r: 1, g: 0, b: 0.11599016, a: 0}
-    key6: {r: 0, g: 0.9403944, b: 1, a: 0}
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 0.545478, g: 1, b: 0.4528302, a: 0}
+    key2: {r: 0, g: 0.6596277, b: 1, a: 1}
+    key3: {r: 0.836399, g: 0.36320752, b: 1, a: 1}
+    key4: {r: 1, g: 0.3962264, b: 0.62599903, a: 0}
+    key5: {r: 1, g: 0.7177996, b: 0.2924528, a: 0}
+    key6: {r: 0.77832067, g: 1, b: 0, a: 0}
     key7: {r: 1, g: 1, b: 1, a: 0}
     ctime0: 0
-    ctime1: 8392
-    ctime2: 14144
-    ctime3: 23197
-    ctime4: 30363
+    ctime1: 9252
+    ctime2: 18119
+    ctime3: 24479
+    ctime4: 36044
     ctime5: 46299
-    ctime6: 58086
+    ctime6: 54163
     ctime7: 65535
-    atime0: 26591
-    atime1: 33475
-    atime2: 46016
-    atime3: 0
+    atime0: 26600
+    atime1: 33924
+    atime2: 41056
+    atime3: 46016
     atime4: 0
     atime5: 0
     atime6: 0
