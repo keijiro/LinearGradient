@@ -9,6 +9,8 @@ public static class LinearGradientExtensions
 
     static Vector4 [] LoadToTempArray(Gradient gradient)
     {
+        if (gradient == null) return _tempArray;
+
         var ckeys = gradient.colorKeys;
         var akeys = gradient.alphaKeys;
         var aimax = akeys.Length - 1;
