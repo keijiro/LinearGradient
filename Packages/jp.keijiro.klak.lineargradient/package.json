@@ -1,6 +1,6 @@
 {
   "name": "jp.keijiro.klak.lineargradient",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "displayName": "Linear Gradient",
   "description": "Extensions for Unity standard gradient class",
   "unity": "2022.3",
@@ -10,5 +10,5 @@
   "documentationUrl": "https://github.com/keijiro/LinearGradient",
   "licensesUrl": "https://github.com/keijiro/LinearGradient/blob/master/LICENSE",
   "license": "Unlicense",
-  "_upm": { "changelog": "" }
+  "_upm": { "changelog": "<b>Added</b><br>- Added signing for Unity 6.3." }
 }
