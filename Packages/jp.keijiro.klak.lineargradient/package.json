@@ -1,13 +1,14 @@
 {
-  "author": "Keijiro Takahashi",
-  "dependencies": {},
-  "description": "Extensions for Unity standard gradient class",
-  "displayName": "Linear Gradient",
-  "keywords": [ "unity" ],
-  "license": "Unlicense",
   "name": "jp.keijiro.klak.lineargradient",
-  "repository": "github:keijiro/LinearGradient",
-  "unity": "2019.4",
-  "unityRelease": "0f1",
-  "version": "1.0.2"
+  "version": "1.0.2",
+  "displayName": "Linear Gradient",
+  "description": "Extensions for Unity standard gradient class",
+  "unity": "2022.3",
+  "author": "Keijiro Takahashi",
+  "dependencies": { },
+  "changelogUrl": "https://github.com/keijiro/LinearGradient/blob/master/CHANGELOG.md",
+  "documentationUrl": "https://github.com/keijiro/LinearGradient",
+  "licensesUrl": "https://github.com/keijiro/LinearGradient/blob/master/LICENSE",
+  "license": "Unlicense",
+  "_upm": { "changelog": "" }
 }
